@@ -1,1 +1,4 @@
-https://raw.githubusercontent.com/naveenland4/UTLive/main/assets/info.m3u8
+#EXTM3U
+#EXT-X-STREAM-INF:RESOLUTION=320x180,FRAME-RATE=25.000000,BANDWIDTH=475136,CODECS="avc1.42000c,mp4a.40.5",NAME="240"
+https://live-c.cf.dmcdn.net/sec2(yaxshp6_JE2FC1CqtIgA8Hsu_sVsy5K2dRvmTm79xSAfUwh5W_CB3waXIbIlP8Bq-xnBavCdTazqZFTp7e9oCvigWVEGEMzybC4ZW1c3XPHN8MkB9qkgG8nCxyBAr3Mb)/dm/3/x7z3zqa/d/live-240.m3u8#cell=lcfc
+
