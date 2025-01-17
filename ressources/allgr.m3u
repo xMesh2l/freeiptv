@@ -923,9 +923,9 @@ https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png" group-title="|TR|🇹🇷 ULUSAL GENEL",SHOW
 https://bloomberght-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" tvg-id="Fox.tr" group-title="|TR|🇹🇷 ULUSAL GENEL",NOW
-https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=oCYVOfxfooSsUE3BShCCjA&e=1737152435
+https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=Qr1ptGpVmMs0BbTEKhdnnw&e=1737152135
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" tvg-id="Fox.tr" group-title="|TR|🇹🇷 ULUSAL GENEL",NOW
-https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=oCYVOfxfooSsUE3BShCCjA&e=1737152435
+https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=Qr1ptGpVmMs0BbTEKhdnnw&e=1737152135
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="|TR|🇹🇷 ULUSAL GENEL",TV8
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="|TR|🇹🇷 ULUSAL GENEL",TV8
@@ -2430,8 +2430,8 @@ https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid
 https://cdn-globecast.akamaized.net/live/eds/al_aoula_laayoune/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n0Pwp2S/alaoulainter.png" referer="https://snrtlive.ma/" group-title="|MA-DZ-TN|🇲🇦🇩🇿🇹🇳 MAGHREB المغرب",Al AOULA INT الأولى
 https://cdn-globecast.akamaized.net/live/eds/al_aoula_inter/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dp5Z2dh/2m.png" group-title="|MA-DZ-TN|🇲🇦🇩🇿🇹🇳 MAGHREB المغرب",2M MONDE (n/f) الثانية
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dp5Z2dh/2m.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0", referer="https://2m.ma" group-title="|MA-DZ-TN|🇲🇦🇩🇿🇹🇳 MAGHREB المغرب",2M MONDE الثانية
+https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wk8BWg4/arryadia.png" referer="https://snrtlive.ma/" group-title="|MA-DZ-TN|🇲🇦🇩🇿🇹🇳 MAGHREB المغرب",ARRYADIA الرياضية
 https://cdn-globecast.akamaized.net/live/eds/arriadia/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k8gk0Hb/arrabiaa.png" referer="https://snrtlive.ma/" group-title="|MA-DZ-TN|🇲🇦🇩🇿🇹🇳 MAGHREB المغرب",ATHAQAFIA الثقافية
@@ -2444,10 +2444,8 @@ https://cdn-globecast.akamaized.net/live/eds/assadissa/hls_snrt/index.m3u8
 https://cdn-globecast.akamaized.net/live/eds/tamazight_tv8_snrt/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jx8GW4D/m24.png" group-title="|MA-DZ-TN|🇲🇦🇩🇿🇹🇳 MAGHREB المغرب",M24 TV للأنباء
 https://63df3191463ce.streamlock.net/live/ngrp:Live2.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rfwFbLk/telemaroc.gif" group-title="|MA-DZ-TN|🇲🇦🇩🇿🇹🇳 MAGHREB المغرب",TELE MAROC قناة المغرب
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rfwFbLk/telemaroc.gif" user-agent="VLC/3.0.20 LibVLC/3.0.20" group-title="|MA-DZ-TN|🇲🇦🇩🇿🇹🇳 MAGHREB المغرب",TELE MAROC قناة المغرب
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/kuw/telmar.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rfwFbLk/telemaroc.gif" group-title="|MA-DZ-TN|🇲🇦🇩🇿🇹🇳 MAGHREB المغرب",TELE MAROC قناة المغرب
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/kuw/tlmc.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rQJcGTc/medi1tv.png" group-title="|MA-DZ-TN|🇲🇦🇩🇿🇹🇳 MAGHREB المغرب",MEDI 1 MG العربية
 https://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rQJcGTc/medi1tv.png" group-title="|MA-DZ-TN|🇲🇦🇩🇿🇹🇳 MAGHREB المغرب",MEDI 1 AR العربية
@@ -2512,6 +2510,10 @@ https://streaming2.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n0Pwp2S/alaoulainter.png" referer="https://snrtlive.ma/" group-title="|MA-DZ-TN|🇲🇦🇩🇿🇹🇳 MAGHREB المغرب",Al AOULA INT الأولى (backup)
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dp5Z2dh/2m.png" user-agent="ExoPlayerDemo/2.0.6 (Linux;Android 14) ExoPlayerLib/2.14.0", referer="https://2m.ma" group-title="|MA-DZ-TN|🇲🇦🇩🇿🇹🇳 MAGHREB المغرب",2M MONDE (exopl) الثانية
+https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dp5Z2dh/2m.png" group-title="|MA-DZ-TN|🇲🇦🇩🇿🇹🇳 MAGHREB المغرب",2M MONDE (n/f) الثانية
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dp5Z2dh/2m.png" referer="https://2m.ma/" group-title="|MA-DZ-TN|🇲🇦🇩🇿🇹🇳 MAGHREB المغرب",2M MONDE الثانية (backupoff)
 https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dp5Z2dh/2m.png" group-title="|MA-DZ-TN|🇲🇦🇩🇿🇹🇳 MAGHREB المغرب",2M MONDE الثانية (backupon)
@@ -2779,9 +2781,9 @@ https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s107QNv/araby2.png" group-title="|AR|🇸🇦 MIDDLE EAST-1 عربي",AL ALARABY 2
 https://alarabyta.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" group-title="|AR|🇸🇦 MIDDLE EAST-1 عربي",MTV LBN
-https://hms.pfs.gdn/stream/mtv.m3u8?token=UbxFZvYjVCLx8mltoRQWEg:lk4gflFx65UhGMop3IJCzHyXp-z2_aG5BPpA4Msqi-KmNSO2TxMpEFIsZRUSniihyFmoEUz6Bo--kMtyRuR7_YGwqoB8WpG2fDFR3HhUG4HgN9nSxIHwSltg1Jvwydh8p_FQlJj5ZtJexOUCQDiMdC1JW0MURMWICpUrW7ztdufq3zbPfoZmhgKlcP_JEkyXpyKcsh1jMBTwq0hlgPpDzUEDnlRVn6z_UUFjNOK44btL5EQx33vDYjIEbYOoQkVe
+https://hms.pfs.gdn/stream/mtv.m3u8?token=N3fYt81ndAFceyrqFaT_Cw:IjBmCuxjmn1A8cM7mF1LPjpCFFPI2yA9yyqiL6z8Ien7BHSrfqtIIrY8rryS75LycBQaoi94HIU5_rzWidIKSUMEwzdJGUdyByZbQWL2t9q9o0WNXyDemPpLZ7SF8jUqYQWOLI453DQ9byBLDz92fZBs7e_KYIMJpN0rBw_5L2iG6hvngBvQD4pnkFvjIhqyUrEvVdSx5-moYJi52Qhh6FPd6DXZPfAZmXLeoKBTkhuFtrv8FJO2qQvqSQMx-FQy
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vJj1gdb/onetvlb.jpg" group-title="|AR|🇸🇦 MIDDLE EAST-1 عربي",ONE TV LBN
-https://hms.pfs.gdn/stream/mtv.m3u8?token=tdd4fPADlPmXtG21n0_wUg:6e7w7FtZhNVYwjsTC5001cmbO-gjsf92c3L4z0Fib4JybPRbHZtK2MRIjH2WAZRcD7iakYGsz3i4-ads7FvoQUT7Y1kIu4UuskHrUleGAByICGnloUZlAFySXafczLfWvCcXx66UTYUz6kN7t3n1xfgVNJifKZVYefbvzagrOf4ud-4IoccEk_3lgmdfYBXc0iJhXZZ3BEVFWM26IdoBzYIQMsdoIQEuX1pM3TczTsr2IsLLMdfod7PG9AQScAvy
+https://hms.pfs.gdn/stream/mtv.m3u8?token=t2coXedVaQOZHQ9pRT_ZGQ:EHBLJS1iXKiggiPZym5N1LwVBnbo9Ds2SVWU0zbU_TQTuw9F42EL6wLpODvQy5Fsr8643UZp9RT_4ocQe5GBtSqV3MGU8DJVudcHU_wQJe2gQoT15940JRg3GiPEU6iiLtIJG_5AYHOd0OKoRLFCO2jFv_vTXZwkGsgabxvVq977FLYVax4VFigtIY96Hg6lsiqyNFajMyCSn8SkWjf99xLd7l3yUR60ov-zb-qEimD-8Jrm7HsPD_Uw8RTZtacw
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zH7W9tX/volbn.png" group-title="|AR|🇸🇦 MIDDLE EAST-1 عربي",VOICE OF LBN
 https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZB8x8TP/futlbn.png" group-title="|AR|🇸🇦 MIDDLE EAST-1 عربي",FUTURE LBN
