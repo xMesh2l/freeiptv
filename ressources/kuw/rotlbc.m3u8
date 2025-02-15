@@ -552,3 +552,13 @@ rlbcpublish/rlbc_480p/hdntl=exp=1739669800~acl=%2frlbclive%2frlbc.smil%2f*~data=
 rlbcpublish/rlbc_240p/hdntl=exp=1739669800~acl=%2frlbclive%2frlbc.smil%2f*~data=hdntl~hmac=0fb46b78ded34ea90d67ae19754bc23b5334f1e445f7b3352088757d925f6623/chunks.m3u8
 
 https://live.kwikmotion.com/rlbclive/rlbc.smil/playlist.m3u8?hdnts=exp=1739583407~acl=/rlbclive/rlbc.smil/*~hmac=52b7ea638f31d06504d4152b454210cb3b326b4846cfae375cf28cf39a5d842e
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=3953508,FRAME-RATE=25,RESOLUTION=1920x1080,CODECS="avc1.640029,mp4a.40.2",CLOSED-CAPTIONS=NONE
+rlbcpublish/rlbc_source/hdntl=exp=1739740672~acl=%2frlbclive%2frlbc.smil%2f*~data=hdntl~hmac=88477161af74be6f152a16b4bcb611d5d500f61fe48c36f7bce9558aca03c009/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1135011,FRAME-RATE=25,RESOLUTION=854x480,CODECS="avc1.77.30,mp4a.40.2",CLOSED-CAPTIONS=NONE
+rlbcpublish/rlbc_480p/hdntl=exp=1739740672~acl=%2frlbclive%2frlbc.smil%2f*~data=hdntl~hmac=88477161af74be6f152a16b4bcb611d5d500f61fe48c36f7bce9558aca03c009/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=622072,FRAME-RATE=25,RESOLUTION=426x240,CODECS="avc1.42c015,mp4a.40.2",CLOSED-CAPTIONS=NONE
+rlbcpublish/rlbc_240p/hdntl=exp=1739740672~acl=%2frlbclive%2frlbc.smil%2f*~data=hdntl~hmac=88477161af74be6f152a16b4bcb611d5d500f61fe48c36f7bce9558aca03c009/chunks.m3u8
+
+https://live.kwikmotion.com/rlbclive/rlbc.smil/playlist.m3u8?hdnts=exp=1739654278~acl=/rlbclive/rlbc.smil/*~hmac=de7b388eb4c8c6a0329d74dfcecb41240bc1e290ca5e10915d43cb44925efb82
