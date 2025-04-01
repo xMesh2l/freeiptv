@@ -1,9 +1,9 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=3024437,RESOLUTION=1920x1080,FRAME-RATE=25,CODECS="avc1.4d4028,mp4a.40.2",CLOSED-CAPTIONS=NONE
-ksa1publish/ksa1_source/hdntl=exp=1743560492~acl=%2fksa1live%2fksa1.smil%2f*~data=hdntl~hmac=001e6a8f11eceb74f20c7c39f7f2b7c4c02532d63d8e3a6dcbac81cfa66d18b8/chunks_dvr.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=982375,RESOLUTION=854x480,FRAME-RATE=25,CODECS="avc1.77.30,mp4a.40.2",CLOSED-CAPTIONS=NONE
-ksa1publish/ksa1_480p/hdntl=exp=1743560492~acl=%2fksa1live%2fksa1.smil%2f*~data=hdntl~hmac=001e6a8f11eceb74f20c7c39f7f2b7c4c02532d63d8e3a6dcbac81cfa66d18b8/chunks_dvr.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=680751,RESOLUTION=640x360,FRAME-RATE=25,CODECS="avc1.77.30,mp4a.40.2",CLOSED-CAPTIONS=NONE
-ksa1publish/ksa1_360p/hdntl=exp=1743560492~acl=%2fksa1live%2fksa1.smil%2f*~data=hdntl~hmac=001e6a8f11eceb74f20c7c39f7f2b7c4c02532d63d8e3a6dcbac81cfa66d18b8/chunks_dvr.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=3024552,RESOLUTION=1920x1080,FRAME-RATE=25,CODECS="avc1.4d4028,mp4a.40.2",CLOSED-CAPTIONS=NONE
+ksa1publish/ksa1_source/hdntl=exp=1743633341~acl=%2fksa1live%2fksa1.smil%2f*~data=hdntl~hmac=1b3f485a51c7dd1b338ffef82ca74eea834a7d59d9eef9077b1041f4dbace956/chunks_dvr.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1105859,RESOLUTION=854x480,FRAME-RATE=25,CODECS="avc1.77.30,mp4a.40.2",CLOSED-CAPTIONS=NONE
+ksa1publish/ksa1_480p/hdntl=exp=1743633341~acl=%2fksa1live%2fksa1.smil%2f*~data=hdntl~hmac=1b3f485a51c7dd1b338ffef82ca74eea834a7d59d9eef9077b1041f4dbace956/chunks_dvr.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=771980,RESOLUTION=640x360,FRAME-RATE=25,CODECS="avc1.77.30,mp4a.40.2",CLOSED-CAPTIONS=NONE
+ksa1publish/ksa1_360p/hdntl=exp=1743633341~acl=%2fksa1live%2fksa1.smil%2f*~data=hdntl~hmac=1b3f485a51c7dd1b338ffef82ca74eea834a7d59d9eef9077b1041f4dbace956/chunks_dvr.m3u8
 
