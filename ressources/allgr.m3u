@@ -2932,7 +2932,7 @@ https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s107QNv/araby2.png" group-title="17. |AR|🇸🇦 MIDDLE EAST-1 عربي",AL ALARABY 2
 https://alarabyta.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" group-title="17. |AR|🇸🇦 MIDDLE EAST-1 عربي",MTV LBN
-https://hms.pfs.gdn/stream/mtv.m3u8?token=bFhq2SLnqT5ohnIfuWrbYg:bSByRO_6ou0ubLbtKbZFwS7F_8lnUf0ioqL67gG_80MpZI3q_CSQuqdUHRF7RSsshD9r_Jrc_b-HzlRku8LUiNMlUTEXlrXdxVXBgkV1-W204no-xpuXxeCGaWTKcMPhsTN8UWEBSM8j5kmH4Bm8fAJN2q5S9H6zcgb57j9O6m0tIFRhOMKA8DQJxhL3lWAM-LIfqnvNa-CVCi6F_PqFrgkPMgi-v9vwVo-m2nljLq5bqWWDpIyrmcQOUtsdxLLx
+https://hms.pfs.gdn/hms/v1/stream/mtv.m3u8?token=ek8qsmM8DK8-0bE8u1Y1LQ:xilePZW737QvxL1PbV2kv40D0q26VFg-S6TEVtYtr1g7apSXDX9G19OLPtJrdaHKNwXTzT3y1Zg-LjTapLiNTRbsO-fKQ4TAhwIVHTruZSeWuBctBCBGTrFlxqpeWnx7KmBau4Z2JsLxwbf1hnqzTOAcY990llbXCKvdq8K4QGvbzpafHRIk5YY_MpgfLYcI0OzIk0Wwa5fhFiB9fo00hs8pGv49DQPazoNUOdzplxCNPpLi-EOy6CQsU-fmkkTV
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vJj1gdb/onetvlb.jpg" group-title="17. |AR|🇸🇦 MIDDLE EAST-1 عربي",ONE LBN
 https://hms.pfs.gdn/v1/broadcast/one/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zH7W9tX/volbn.png" group-title="17. |AR|🇸🇦 MIDDLE EAST-1 عربي",VOICE OF LBN
