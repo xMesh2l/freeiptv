@@ -3289,7 +3289,7 @@ https://roya-live.ercdn.net/roya/roya.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png" group-title="17. |AR|🇸🇦 MIDDLE EAST-1 عربي",ROYA TV (backup)
 https://weyyak-live.akamaized.net/weyyak_roya/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" group-title="17. |AR|🇸🇦 MIDDLE EAST-1 عربي",MTV LBN
-https://hms.pfs.gdn/hms/v1/stream/mtv.m3u8?token=-pQv7zPQVmZFJGLxwtIXnA:KKtuQRJhfmkkrhEmSy3BYV5JK3_BgyQdnps2NIGueo4gYNBkMp4IPKUwOsrb0Ure6WjfRYxmSVzkdl514zeDq8BBaLZKXnaAegNtnP7t-5mZ3H73haNhqr_UEKLIay5FvViIyz9g9uamFr-odm9K_bz3vywcATKc1aS-hBHIZgTAoHreZ5FWi82sH1guShh47EKO5lqvVLbO1UkYfB34M33ekaSpM0AEiCDRN4pdX_10UcdZqMlmGr0dZxSaliZb
+https://hms.pfs.gdn/hms/v1/stream/mtv.m3u8?token=2t1bujO311A6gwS44_BQvQ:LtFE1Rir3GqIJ4lzcCG3n-9DpSje88sf3jLLrSHBPGTxmAvOKvKeoQeS8axxP_tWumjJqaVFYCaiOraa7nvdCCiHkpS4EgVrhJS_jKl4wa9dWyyvfeOpgs84uvaH5sit9JFGYU7eQ46wT2G4swIOehMQA0fn7X0JZMuCnnfQcgvtgZqLmMoOboHKPT0BxGYib98VopZh3VVuJqWqXW5BxfkWzE8G-ytZQ1IFxQBEaOi9oLRAGOWPK9Ky0fGX1UFF
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" user-agent="Mozilla/5.0" group-title="17. |AR|🇸🇦 MIDDLE EAST-1 عربي",MTV_LBN [offline]
 https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vJj1gdb/onetvlb.jpg" user-agent="Mozilla/5.0" group-title="17. |AR|🇸🇦 MIDDLE EAST-1 عربي",ONE TV_LBN [offline]
