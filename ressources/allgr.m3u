@@ -3321,7 +3321,7 @@ https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vJj1gdb/onetvlb.jpg" user-agent="Mozilla/5.0" group-title="17. |AR|🇸🇦 MIDDLE EAST-1 عربي",ONE TV_LBN [offline]
 https://live.3cd.io/v1/broadcast/one/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vJj1gdb/onetvlb.jpg" group-title="17. |AR|🇸🇦 MIDDLE EAST-1 عربي",ONE TV LBN
-https://hms.pfs.gdn/hms/v1/stream/mtv.m3u8?token=vk1t2c4PmjXa5D9Rb5raFw:EWN8vP0cAoEFQZjmkVVU8ins_Wjyji3tCBW3U-2XDb5QLA6RSKsU73-ukKeM0nU31PpgxNbeSYKwKtj64WpJvhH9B0dTLPkQ_FM6E1O3ZA62EY8aefR9vGQXN52JFMv_CEO0Gsf3Es2bydSZQKmLrdbFcOchXqT_sxNOVlnGZo2vbsifN2g5qEJ5OiIgeFWaXJYJL8_GWQChWqr7y26bPxEX-w5INzVW-x-xicn1QMSyCXMUSqZjXdTIHNeR2dFt
+https://hms.pfs.gdn/hms/v1/stream/mtv.m3u8?token=ooGxzVZKlKo0iO13ma1wQQ:0QPiwn7Mw_tWX64etIs1YwD71uXbN9EOI8y5lbmfBXjLQDPCVkE1aLQwTV-Kc-CIOZ5F74T5iMTLh1571ZD6Zs9oFePk9RDHnW6_Y_8VFjxoizxPX1TTOnXnmXARG1bWFHzvScZ6kcYdZDIoGNuUL0nWtctLUx9D68Bk-kSEib5ZjC6aUlqCnkr1I6ZrQeaM8IDwcw307q-LaRqfIPT5MBBgOZDQR2-nT40VjXO0pMXHwT4uAkigdSoclPjNFcYA
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YhMgggj/lbcb.jpg" group-title="17. |AR|🇸🇦 MIDDLE EAST-1 عربي",LBC LBN [geoblocked]
 https://daiconnect.com/live/hls/rotana/lbc-cdn/.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Svnqq8G/otv.jpg" group-title="17. |AR|🇸🇦 MIDDLE EAST-1 عربي",OTV LBN [brokenlink]
