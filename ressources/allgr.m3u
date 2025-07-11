@@ -3341,7 +3341,7 @@ https://media1.livaat.com/static/TAHA_TV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h872gKg/taha.png" group-title="17. |LB|🇱🇧 LIBAN-LÜBNAN-LEBANON-لبنان",TAHA TV
 https://media2.livaat.com/TAHA-TV/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" group-title="17. |LB|🇱🇧 LIBAN-LÜBNAN-LEBANON-لبنان",MTV LBN
-https://hms.pfs.gdn/hms/v1/stream/mtv.m3u8?token=m67zo
+https://hms.pfs.gdn/hms/v1/stream/mtv.m3u8?token=5C6xSd7d37aCepmYNiVbTw:6ZbdDraBvsFKOcytzX7OPguNW1XWoSqpMnOol6EpoTrcKM7eTzKI9gpF7bRDOZyGpDbKROa-cDVN01GJyl9ddTRgRHt6MLTDmG58ejlZzZOqTmEIEDqFo9YpfRISJNJvarui_-2mBDyhr60sm_wkCDQdKYcaIqpsE3YF3AnHYsE0YQNq7DsKB9mfflNEW8kCTq6DOXNAzLm02_mSZ_bVoBmJnsw9u9QyXyiezV6iWVAUYgNTItPO-VyBvBmieLtP
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vJj1gdb/onetvlb.jpg" group-title="17. |LB|🇱🇧 LIBAN-LÜBNAN-LEBANON-لبنان",ONE TV LBN
 https://hms.pfs.gdn/hms/v1/stream/mtv.m3u8?token=4c8RZ
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wR2jkMz/nbnlb.png" referer="https://odysee.com" group-title="17. |LB|🇱🇧 LIBAN-LÜBNAN-LEBANON-لبنان",NBN (backup)
