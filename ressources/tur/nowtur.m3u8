@@ -1,1 +1,1 @@
-daiUrl not found.
+An error occurred while fetching the URL: HTTPConnectionPool(host='www.nowtv.com.tr', port=80): Max retries exceeded with url: /canli-yayin (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x7f2cedeea3c0>: Failed to resolve 'www.nowtv.com.tr' ([Errno -3] Temporary failure in name resolution)"))
