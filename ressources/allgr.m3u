@@ -180,9 +180,9 @@ https://live-lci-hls.cdn-0.diff.tf1.fr/out/v1/917aad4fa72f42f7ba7f486226f54bc4/l
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pQ7kLNY/tv5fbs.png" group-title="2. |FR|🇫🇷 GÉNÉRALISTE",TV5MONDE FBSM
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" group-title="2. |FR|🇫🇷 GÉNÉRALISTE",TF1_
-404: Not Found
+https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3NTM0ODE5MzEsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzUzNDY3NTMxLCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.88S4pyi-tC_yK4UHE6LVU_OMNYW_sOMEUNtZ3aaVIg0/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" group-title="2. |FR|🇫🇷 GÉNÉRALISTE",TF1-
-404: Not Found
+https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiIzMS4zNi4yMDAuMjM3IiwiY21jZCI6IiIsImV4cCI6MTc1MzQ4MDgwMiwiZ2lkIjoiMGM5NTVkOWJjZjZmNDU2MDk5NmY3NDczMmIyNzNjZDciLCJpYXQiOjE3NTM0NjY0MDIsImlzcyI6ImRlbGl2ZXJ5IiwibWF4YiI6MCwic3RlbSI6Ii9vdXQvdjEvMmE1ZWYyYTRjZTRhNDEyMDllMGE4ODEwNzRkMTU5MzIvdGYxLWNtYWYiLCJzdWIiOiIwYzk1NWQ5YmNmNmY0NTYwOTk2Zjc0NzMyYjI3M2NkNyJ9.GfyAGb4TOVQYahsyoHZ-IUmjRMtO_2VdKeFCkZp5PXE/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png" group-title="2. |FR|🇫🇷 GÉNÉRALISTE",FRANCE 2
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y8PjbJ4/fr3bl.png" group-title="2. |FR|🇫🇷 GÉNÉRALISTE",FRANCE 3
@@ -260,7 +260,7 @@ https://raw.githubusercontent.com/schumijo/iptv/main/playlists/canalplus/cstar.m
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" group-title="2. |FR|🇫🇷 GÉNÉRALISTE",TF1 (backup SD)
 error: No playable streams found on this URL: https://www.tf1.fr/tf1/direct
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" group-title="2. |FR|🇫🇷 GÉNÉRALISTE",TF1 (backup BD_LQ)
-404: Not Found
+https://live-tf1-hls.cdn-0.diff.tf1.fr/no/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" group-title="2. |FR|🇫🇷 GÉNÉRALISTE",TF1 (backup)
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/refs/heads/main/Stream/Live/TF1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" group-title="2. |FR|🇫🇷 GÉNÉRALISTE",TF1 (backup)
@@ -1110,9 +1110,9 @@ https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png" group-title="6. |TR|🇹🇷 ULUSAL GENEL",SHOW
 https://bloomberght-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" tvg-id="Fox.tr" group-title="6. |TR|🇹🇷 ULUSAL GENEL",NOW
-https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=KP_3Xez9ZLrJHPSJc1kwDQ&e=1753482581
+https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=qK5FHsn2SgjdVDuEoH0F2w&e=1753482882
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" tvg-id="Fox.tr" group-title="6. |TR|🇹🇷 ULUSAL GENEL",NOW
-https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=KP_3Xez9ZLrJHPSJc1kwDQ&e=1753482581
+https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=qK5FHsn2SgjdVDuEoH0F2w&e=1753482882
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="6. |TR|🇹🇷 ULUSAL GENEL",TV8
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="6. |TR|🇹🇷 ULUSAL GENEL",TV8
@@ -3365,9 +3365,9 @@ https://media1.livaat.com/static/TAHA_TV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h872gKg/taha.png" group-title="17. |LB|🇱🇧 LIBAN-LÜBNAN-LEBANON-لبنان",TAHA TV
 https://media2.livaat.com/TAHA-TV/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" group-title="17. |LB|🇱🇧 LIBAN-LÜBNAN-LEBANON-لبنان",MTV LBN
-https://hms.pfs.gdn/hms/v1/stream/mtv.m3u8?token=7Snc43evsJtSt3N-E4OTQQ:EdpfG3N9KwndR9sn67LmDiVQlk9qHLKzGj0UNYl3zQTM-yCyDEoSOl_XE2jVkT0nePjTJk8uNi1hqYQD-BbJwxM-6yOXGdD-9xS68H7TIGCIxj5Qw-9r-3nYBBEGZjXzuweKsb6pXjs4xzD_0r0kFF_IheOeG-jkzuREf64wqrmLISjRlmVQGCmnP18H52JHmX-x5209OPTbsosIS2H71Cp__XNI3zk1bIgFq6z28rIOgDqI2uOmUB1hj7rCq9zq
+https://hms.pfs.gdn/hms/v1/stream/mtv.m3u8?token=m67zo
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vJj1gdb/onetvlb.jpg" group-title="17. |LB|🇱🇧 LIBAN-LÜBNAN-LEBANON-لبنان",ONE TV LBN
-https://hms.pfs.gdn/hms/v1/stream/mtv.m3u8?token=DgXyTLclQDP628KwiGd5_g:yZT1iy8pNVKk0rr5m0wLaDIryPHivXspyEbBb0p2eVEL9U0S0M0yBVcAwLepBSiVo53qaMe4Z-vCe2lBS3Uf61lkeo15R3lXs0poXN4RhM9gXhWgyd0qgv3uzdJdcGpRfhZn_m4bHzmOl_VeNCi35fm3ft_g7Ils2hI2KXokD38maHmfeXvnGjCOLVNdIu48Dr6fESpAjqQAd6v2WeRkiXEAjmeqyT6uzMaib3RR4yPnZKtJRBJq9ty6blNu7VC7
+https://hms.pfs.gdn/hms/v1/stream/mtv.m3u8?token=4c8RZ
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wR2jkMz/nbnlb.png" referer="https://odysee.com" group-title="17. |LB|🇱🇧 LIBAN-LÜBNAN-LEBANON-لبنان",NBN (backup)
 https://cloud.odysee.live/content/1d8edd84bd42e695555dbf20d83b45e203ed9ed0/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ygKx229/lana1.png" group-title="17. |LB|🇱🇧 LIBAN-LÜBNAN-LEBANON-لبنان",LANA TV [offline]
