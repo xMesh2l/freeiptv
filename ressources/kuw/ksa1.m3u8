@@ -1,11 +1,9 @@
-<HTML><HEAD>
-<TITLE>Access Denied</TITLE>
-</HEAD><BODY>
-<H1>Access Denied</H1>
- 
-You don't have permission to access "http&#58;&#47;&#47;live&#46;kwikmotion&#46;com&#47;ksa1live&#47;ksa1&#46;smil&#47;playlist&#95;dvr&#46;m3u8&#63;" on this server.<P>
-Reference&#32;&#35;18&#46;d44e4317&#46;1754260853&#46;8279d9e
-<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;d44e4317&#46;1754260853&#46;8279d9e</P>
-</BODY>
-</HTML>
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=3024505,RESOLUTION=1920x1080,FRAME-RATE=25,CODECS="avc1.4d4028,mp4a.40.2",CLOSED-CAPTIONS=NONE
+ksa1publish/ksa1_source/hdntl=exp=1754361839~acl=%2fksa1live%2fksa1.smil%2f*~data=hdntl~hmac=5f5a02b3ab0602674ef6c048fd11db1e2c0cfb8de34a645ae949abba586efe7a/chunks_dvr.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=947164,RESOLUTION=854x480,FRAME-RATE=25,CODECS="avc1.77.30,mp4a.40.2",CLOSED-CAPTIONS=NONE
+ksa1publish/ksa1_480p/hdntl=exp=1754361839~acl=%2fksa1live%2fksa1.smil%2f*~data=hdntl~hmac=5f5a02b3ab0602674ef6c048fd11db1e2c0cfb8de34a645ae949abba586efe7a/chunks_dvr.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=667003,RESOLUTION=640x360,FRAME-RATE=25,CODECS="avc1.77.30,mp4a.40.2",CLOSED-CAPTIONS=NONE
+ksa1publish/ksa1_360p/hdntl=exp=1754361839~acl=%2fksa1live%2fksa1.smil%2f*~data=hdntl~hmac=5f5a02b3ab0602674ef6c048fd11db1e2c0cfb8de34a645ae949abba586efe7a/chunks_dvr.m3u8
 
