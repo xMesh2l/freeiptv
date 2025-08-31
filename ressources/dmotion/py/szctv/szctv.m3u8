@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:RESOLUTION=1280x720,FRAME-RATE=25.000000,BANDWIDTH=2179072,CODECS="avc1.64001f,mp4a.40.2",NAME="720"
-An error occurred: HTTPSConnectionPool(host='www.dailymotion.com', port=443): Max retries exceeded with url: /player/metadata/video/x8i9j7s (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fb70ca645f0>: Failed to resolve 'www.dailymotion.com' ([Errno -3] Temporary failure in name resolution)"))
+Key 'qualities' or its subkeys not found in the JSON data.
