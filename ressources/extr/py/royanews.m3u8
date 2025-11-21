@@ -1,12 +1,12 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2500000,RESOLUTION=1920x1080,NAME=1080p
-https://roya-live.ercdn.net/royanews/royanews_1080p.m3u8?st=MXdsuHRnnHntO1cOgqkT9A&e=1763709368
+https://roya-live.ercdn.net/royanews/royanews_1080p.m3u8?st=dgrOpp6KQzuNtJz6CZR_bA&e=1763723819
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000,RESOLUTION=1280x720,NAME=720p
-https://roya-live.ercdn.net/royanews/royanews_720p.m3u8?st=MXdsuHRnnHntO1cOgqkT9A&e=1763709368
+https://roya-live.ercdn.net/royanews/royanews_720p.m3u8?st=dgrOpp6KQzuNtJz6CZR_bA&e=1763723819
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000,RESOLUTION=854x480,NAME=480p
-https://roya-live.ercdn.net/royanews/royanews_480p.m3u8?st=MXdsuHRnnHntO1cOgqkT9A&e=1763709368
+https://roya-live.ercdn.net/royanews/royanews_480p.m3u8?st=dgrOpp6KQzuNtJz6CZR_bA&e=1763723819
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=600000,RESOLUTION=640x360,NAME=360p
-https://roya-live.ercdn.net/royanews/royanews_360p.m3u8?st=MXdsuHRnnHntO1cOgqkT9A&e=1763709368
+https://roya-live.ercdn.net/royanews/royanews_360p.m3u8?st=dgrOpp6KQzuNtJz6CZR_bA&e=1763723819
 
 
