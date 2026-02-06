@@ -258,7 +258,7 @@ https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/dailym
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png" drm="ClearKey", drmkey="433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3" group-title="2. |FR|🇫🇷 GÉNÉRALISTES 📺📀",M6 (backup)
 https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" group-title="2. |FR|🇫🇷 GÉNÉRALISTES 📺📀",TF1_
-https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3NzA0MTI2OTksImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzcwMzk4Mjk5LCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.FjIBTaO-6zNcUTDlSXIZcrCy11GxC9MMw-mAC0NW97k/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
+404: Not Found
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" group-title="2. |FR|🇫🇷 GÉNÉRALISTES 📺📀",TF1-
 No redirect found.
 #EXTINF:-1 tvg-logo="https://i.ibb.co/420Bjqt/tv5europe.png" group-title="2. |FR|🇫🇷 GÉNÉRALISTES 📺📀",TV5MONDE EUROPE [geo-area]
@@ -304,7 +304,7 @@ https://raw.githubusercontent.com/schumijo/iptv/main/playlists/canalplus/cstar.m
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" group-title="2. |FR|🇫🇷 GÉNÉRALISTES 📺📀",TF1 (backup SD)
 error: No playable streams found on this URL: https://www.tf1.fr/tf1/direct
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" group-title="2. |FR|🇫🇷 GÉNÉRALISTES 📺📀",TF1 (backup BD_LQ)
-https://live-tf1-hls.cdn-0.diff.tf1.fr/no/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
+404: Not Found
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" group-title="2. |FR|🇫🇷 GÉNÉRALISTES 📺📀",TF1 (backup)
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/refs/heads/main/Stream/Live/TF1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" group-title="2. |FR|🇫🇷 GÉNÉRALISTES 📺📀",TF1 (backup)
@@ -6334,6 +6334,6 @@ http://
 #EXTINF:-1 group-title="31. |📡|👨‍💻👉GITHUB.COM/IPSTREET312",TEST 01 🎉🥳🎊
 http://
 #EXTINF:-1 group-title="31. |📡|👨‍💻👉GITHUB.COM/IPSTREET312",T1
-https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiIxODUuMzEuNDEuODUiLCJjbWNkIjoiIiwiZXhwIjoxNzcwNDE3ODYzLCJnaWQiOiIyOThjYWE1YmVlZWE0MWYwYWZlYmI1NTBkOGEyOGY0OCIsImlhdCI6MTc3MDQwMzQ2MywiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjI5OGNhYTViZWVlYTQxZjBhZmViYjU1MGQ4YTI4ZjQ4In0.jpE7FM8WyJqDRCx3aHuidVpyOJFHhVHKzP_ymYmxwT0/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
+404: Not Found
 #EXTINF:-1 group-title="31. |📡|👨‍💻👉GITHUB.COM/IPSTREET312",T2
-https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiIxODUuMzEuNDEuODUiLCJjbWNkIjoiIiwiZXhwIjoxNzcwNDE3ODYzLCJnaWQiOiIyOThjYWE1YmVlZWE0MWYwYWZlYmI1NTBkOGEyOGY0OCIsImlhdCI6MTc3MDQwMzQ2MywiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjI5OGNhYTViZWVlYTQxZjBhZmViYjU1MGQ4YTI4ZjQ4In0.jpE7FM8WyJqDRCx3aHuidVpyOJFHhVHKzP_ymYmxwT0/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index_1.m3u8
+404: Not Found
